@@ -6,9 +6,11 @@ permalink: /privacy/
 
 # 밸런스파티 개인정보 처리방침
 
+> **변경 안내 (2026년 10월 16일 공지)**: 2026년 10월 23일부터 새 방침이 시행됩니다. 질문마다 각 선택지를 고른 사람 수를 모아 비율로 보여 주고(누가 골랐는지는 남기지 않습니다), 혼자 하기에서 답한 질문 목록을 기기에 저장합니다. [바뀌는 방침 보기](../privacy-next/)
+
 시행일: 2026년 10월 16일
 
-공개 주소: https://koh-aifactory.github.io/balance-party-legal/privacy/ (저장소 `koh-aifactory/balance-party-legal`. 이 문서를 고치면 그 저장소의 `privacy.md`도 같이 고친다)
+공개 주소: https://koh-aifactory.github.io/balance-party-legal/privacy/
 
 밸런스파티(이하 "서비스")는 토스 앱 안에서 친구들과 밸런스 게임을 하는 미니앱입니다. 서비스는 게임에 필요한 정보만 짧게 처리하고, 게임이 끝나면 지웁니다. 회원 가입과 토스 로그인을 쓰지 않습니다.
 
